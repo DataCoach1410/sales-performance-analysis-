@@ -1,2 +1,7 @@
-# sales-performance-analysis-
-This is an analysis of a sample data set for the first and only trip the titanic embarked on.
+# sales-performance-analysis
+### Key insights
+
+- the top region is new york
+- the total sales is 20000
+  * thrr
+
